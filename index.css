@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+html {
+    background:linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('https://www.blackpast.org/wp-content/uploads/Founders_Library_Howard_University_Washington_DC_August_16_2017.jpg') no-repeat center fixed;     
+    background-size: cover;
+}
+
+
+.extension {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  display: block;
+  margin-top: 15%;
+
+}
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #FAFAF6;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  color: #FAFAF6;
+}
